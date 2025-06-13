@@ -119,6 +119,4 @@ For every trading day it **publishes one price level**—either a *support* (if 
 
 ## 8 | Disclaimer
 
-This repository is **for educational illustration only**. It does not constitute trading advice or a solicitation to buy or sell any security. Past performance is not indicative of future results; execute at your own risk and always perform your own due diligence.
-
-*© 2025 Viktor Mashalov*  
+This repository is **for educational illustration only**. It does not constitute trading advice or a solicitation to buy or sell any security. Past performance is not indicative of future results; execute at your own risk and always perform your own due diligence.  
